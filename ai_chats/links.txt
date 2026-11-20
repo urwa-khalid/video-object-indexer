@@ -1,0 +1,4 @@
+# Put the share links of EVERY AI chat you used for this task here, one per line.
+# ChatGPT / Claude / Gemini on the web: use the Share button.
+# Claude Code: copy the .jsonl files for this project from ~/.claude/projects/ into this folder.
+# Don't edit or shorten the chats. Only replace passwords / API tokens (e.g. your Hugging Face token) with [REMOVED].

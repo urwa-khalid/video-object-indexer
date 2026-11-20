@@ -1,0 +1,10 @@
+yolo11l.pt
+__pycache__/
+*.pyc
+.pytest_cache/
+finevideo/
+results.jsonl
+ref*.jsonl
+*.log
+.venv/
+venv/

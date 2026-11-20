@@ -1,0 +1,10 @@
+# Exact versions. Python 3.11, NVIDIA driver with CUDA 12.
+# torch 2.8.0 from PyPI is the CUDA 12.8 build. Newer torch releases on PyPI (2.11+) are built for CUDA 13,
+# which a "CUDA 12" driver may refuse, so keep torch/torchvision at these versions.
+torch==2.8.0
+torchvision==0.23.0
+ultralytics==8.4.216
+av==18.1.0
+pyarrow==26.0.1
+numpy==2.4.6
+opencv-python==5.1.0.95
