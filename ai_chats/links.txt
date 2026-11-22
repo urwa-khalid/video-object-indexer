@@ -1,4 +1,4 @@
 # Put the share links of EVERY AI chat you used for this task here, one per line.
-# I by mistake remove the earlier project which I was using on claude so I apologize for the. I have attached the updated link.
+# I by mistake remove the earlier project which I was using on claude so I apologize for that. I have attached the updated link.
 
 https://claude.ai/share/871f72fa-5dc9-49b5-b138-118f24075258

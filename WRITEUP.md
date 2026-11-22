@@ -21,7 +21,7 @@ Inference takes 70.8%, decode 27.0%, and preprocess 1.7%. It was measured with -
 
 ## 4. Checking correctness (100 words)
 
-I compared against an every-frame, official-predict, fp32 reference on 24 videos using evaluate_results.py. At 4 fps, micro F1 was about 0.98, people exact about 0.95, and within-one about 0.99, all above the 0.95 / 0.85 / 0.95 thresholds. You also ran the 25 unit tests. Macro F1 is below 0.95 at 4 fps, and the README mention it.
+I compared against an every-frame, official-predict, fp32 reference on 24 videos using evaluate_results.py. At 4 fps, micro F1 was about 0.98, people exact about 0.95, and within-one about 0.99, all above the 0.95 / 0.85 / 0.95 thresholds. I also ran the 25 unit tests. Macro F1 is below 0.95 at 4 fps.
 
 ## 5. Working with AI (100 words)
 
